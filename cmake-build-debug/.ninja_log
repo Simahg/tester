@@ -1,0 +1,7 @@
+# ninja log v5
+0	2501	7158795727837656	CMakeFiles/Only_for_test.dir/test_trial.c.obj	a05db75f46032a41
+2503	4193	7158795744728143	Only_for_test.exe	b6ee64cac3713523
+2	96	7158795955579929	CMakeFiles/Only_for_test.dir/test_trial.c.obj	a05db75f46032a41
+97	193	7158795956480993	Only_for_test.exe	b6ee64cac3713523
+2	97	7158796136378666	CMakeFiles/Only_for_test.dir/test_trial.c.obj	a05db75f46032a41
+97	196	7158796137323920	Only_for_test.exe	b6ee64cac3713523
